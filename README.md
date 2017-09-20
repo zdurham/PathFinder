@@ -1,5 +1,4 @@
 # PathFinder
-
 PathFinder was created in order to provide an all-inclusive travel application. We wanted to take commonly requested information (popular restaurants, tourist attractions, weather, etc.) and display it all in an easily digestible way.
 
 This application was created as our first project for the UNC Chapel Hill Bootcamp.
